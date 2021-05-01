@@ -1,0 +1,21 @@
+.app__container {
+  height: 100%;
+}
+
+.app__add {
+  margin: 40px;
+}
+
+.table {
+  width: 100%;
+}
+
+.table__avatar {
+  width: 30px;
+  height: 30px;
+  background: url("./assets/user.svg") center/30px no-repeat;
+}
+
+.table__action_edit {
+  margin-right: 20px;
+}

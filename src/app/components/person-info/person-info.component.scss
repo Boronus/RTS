@@ -1,0 +1,13 @@
+.person-info {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px 30px;
+}
+
+.person-info__title {
+  padding: 30px;
+}
+
+.person-info__name-input {
+  text-transform: capitalize;
+}
